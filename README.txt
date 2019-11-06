@@ -1,5 +1,4 @@
-Hello, 
-this is my JPEG-decoder project using inverted Discrete cosine transform.
+JPEG-decoder project using inverted Discrete cosine transform.
 It is written in C, and the makefile compile and run the decoder for images in folder images.
 
 compile: 
